@@ -66,7 +66,7 @@ h1, h2 {
 
 /* Section 2 */
 .about {
-  background: url("file:///Users/mariloubernard/Desktop/Guardia/UE2-2_CDC_De%CC%81veloppement%20se%CC%81curise%CC%81%20web%20full%20stack/img/fond_color1.jpg") center/cover no-repeat;
+  background: url("fond_color1.jpg") center/cover no-repeat;
   padding: 50px 10%;
   min-height: 100vh; /* garde la première section pleine hauteur */
 }
@@ -266,7 +266,7 @@ h1, h2 {
 
 /* Section 5 */
 .formation {
-background: url("file:///Users/mariloubernard/Desktop/Guardia/UE2-2_CDC_De%CC%81veloppement%20se%CC%81curise%CC%81%20web%20full%20stack/img/fond_color2.jpg") center/cover no-repeat;
+background: url("fond_color2.jpg") center/cover no-repeat;
 min-height: 100vh; /* garde la première section pleine hauteur */
 }
 .formation-title {
@@ -301,7 +301,7 @@ min-height: 100vh; /* garde la première section pleine hauteur */
 
 /* Section 5 */
 .info {
-    background: url("file:///Users/mariloubernard/Desktop/Guardia/UE2-2_CDC_De%CC%81veloppement%20se%CC%81curise%CC%81%20web%20full%20stack/img/fond2.jpg") center/cover no-repeat;
+    background: url("fond2.jpg") center/cover no-repeat;
     text-align: left;
     display: flex;
     padding: 15rem;
@@ -352,7 +352,7 @@ min-height: 100vh; /* garde la première section pleine hauteur */
 
 /* Section 6 */
 .fin {
-    background: url("file:///Users/mariloubernard/Desktop/Guardia/UE2-2_CDC_De%CC%81veloppement%20se%CC%81curise%CC%81%20web%20full%20stack/img/fond1.jpg") center/cover no-repeat;
+    background: url("fond1.jpg") center/cover no-repeat;
     text-align: center;
     padding: 60px 20px;
 }
@@ -416,6 +416,7 @@ footer {
   text-align: center;
   padding: 30px;
 }
+
 
 
 
